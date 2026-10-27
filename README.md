@@ -74,8 +74,3 @@ releases that don't wake anyone up at night. When I'm not shipping product, I'm 
   <img src="https://img.shields.io/badge/Prometheus-111111?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
   <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
 </p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Cmatrix1&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cmatrix1&layout=compact&theme=github_dark&hide_border=true" alt="Top languages"/>
-</p>
