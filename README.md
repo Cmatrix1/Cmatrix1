@@ -23,7 +23,7 @@ releases that don't wake anyone up at night. When I'm not shipping product, I'm 
 
 ### 🧭 Currently
 
-- 🔨 **Working on** fintech backends and my own product, [RTLHTML](https://rtlhtml.ir/)
+- 🔨 **Working on** the backend of [Zarafza](https://zarafza.com/), a digital-gold trading platform, and my own product, [RTLHTML](https://rtlhtml.ir/)
 - 📚 **Learning** advanced system design and polishing my English to full fluency
 - 🤝 **Open to** senior backend roles — Tehran or hybrid
 
@@ -38,7 +38,7 @@ releases that don't wake anyone up at night. When I'm not shipping product, I'm 
 
 | Project | What I did |
 |---|---|
-| **Zarafza** · digital-gold trading *(closed source)* | Led the V2 backend rewrite for 250K+ users, with a zero-downtime migration and money-safe payment flows |
+| **[Zarafza](https://zarafza.com/)** · digital-gold trading *(closed source)* | Led the V2 backend rewrite for 250K+ users, with a zero-downtime migration and money-safe payment flows |
 | **Marzban** · VPN subscription platform | Built backend services for a microservices platform serving 100K+ active users |
 | **[RTLHTML](https://rtlhtml.ir/)** · HTML template marketplace | My own product: took it from idea to one of Iran's largest template stores, owning backend and product |
 | **Namagar** · AI investment portfolio platform | Built the backend from scratch: valuation, ROI / P&L, historical performance and scenario simulation |
