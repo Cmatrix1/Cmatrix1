@@ -1,52 +1,52 @@
-<h1 align="center">Mohammad Sadegh Majidi</h1>
-
 <p align="center">
-  <b>Senior Backend Engineer · Fintech</b><br/>
-  Mashhad, Iran · open to Tehran / Hybrid
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:30363d&height=140&section=header&text=Mohammad%20Sadegh%20Majidi&fontSize=38&fontColor=e6edf3&desc=Senior%20Backend%20Engineer%20%C2%B7%20Python%20%C2%B7%20Fintech&descSize=16&descAlignY=75&fontAlignY=40" alt="Mohammad Sadegh Majidi"/>
 </p>
+
+<p align="center"><i>I build the backends behind products people trust with their money and their time.</i></p>
 
 <p align="center">
   <a href="https://github.com/Cmatrix1/Cmatrix1/raw/master/resume/Mohammad_Sadegh_Majidi_Resume.pdf"><img src="https://img.shields.io/badge/Download_Resume-PDF-111111?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/></a>
   <a href="mailto:sadeghmajidi980@gmail.com"><img src="https://img.shields.io/badge/Email-sadeghmajidi980%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Mashhad,_Iran-open_to_Tehran_%2F_Hybrid-111111?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
 ---
 
-Backend engineer with **6+ years** of Python experience building secure, high-traffic systems.
-Currently leading the V2 backend of a **digital-gold trading platform serving 250K+ users** — money-safe payment flows,
-zero-downtime migrations across production databases, and the reliability work that keeps real money moving correctly.
+### 👋 Hi, I'm Sadegh
 
-### What I build
+I started writing Python at around 15 and never really stopped. Six years later, I design and ship backends for
+**fintech, SaaS and marketplace products** — from investment and payment platforms to a vacation-rental marketplace,
+one of Iran's largest HTML template stores and a VPN platform with 100K+ users.
 
-- **Fintech backends** — wallets, ledgers, trading, payment-gateway integrations and settlement
-- **Reliable distributed systems** — idempotency, transactional outbox, distributed locking, background workers
-- **Safe migrations** — Strangler Fig rewrites and zero-downtime cutovers of live systems
-- **Production foundations** — security (JWT, 2FA, RBAC, rate limiting), observability, testing and CI/CD
+I care about the boring parts that make systems trustworthy: correctness, clean architecture, good tests and
+releases that don't wake anyone up at night. When I'm not shipping product, I'm usually building open-source tools.
 
-### Selected work
+### 🧭 Currently
 
-**Zarafza — Digital-gold trading platform** · *Senior Backend Engineer · closed source*
-- Led the V2 rewrite for 250K+ users, consolidating 3 legacy services into one modular FastAPI monolith
-- Zero-downtime migration across 5 production PostgreSQL databases with staged gateway cutover
-- Money-safe payments: provider re-verification, idempotent retries via transactional outbox, Redis locks against double-spend
-- 300+ integration tests guaranteeing parity with legacy services throughout the migration
+- 🔨 **Working on** fintech backends and my own product, [RTLHTML](https://rtlhtml.ir/)
+- 📚 **Learning** advanced system design and polishing my English to full fluency
+- 🤝 **Open to** senior backend roles — Tehran or hybrid
 
-**Marzban — VPN subscription platform** · *Backend Engineer*
-- Backend services for a microservices-based platform serving **100K+ active users**
+### 🛠 What I build
 
-**RTLHTML — HTML template marketplace** · *Product Owner & Backend Engineer* · [rtlhtml.ir](https://rtlhtml.ir/)
-- Took the product from concept to one of Iran's largest HTML template marketplaces, owning backend and product end to end
+- **Financial systems** — wallets, ledgers, payments and portfolio analytics where every number has to be right
+- **Products end to end** — from data model and APIs to deployment, with frontend and product teams
+- **Reliable services** — async workers, caching, idempotent flows and clean, testable architecture (DDD / Clean Architecture)
+- **Developer tools** — open-source libraries and API clients for the Python ecosystem
 
-**Namagar — AI investment portfolio platform** · *Backend Engineer*
-- Built the backend from scratch: valuation, ROI / P&L analysis, historical performance and scenario simulation
+### 🚀 Selected work
 
-**Villaroo — Vacation rental marketplace** · *Backend Engineer*
-- Scalable Django backend for hosts and guests, with automated integration tests and deployment pipelines
+| Project | What I did |
+|---|---|
+| **Zarafza** · digital-gold trading *(closed source)* | Led the V2 backend rewrite for 250K+ users, with a zero-downtime migration and money-safe payment flows |
+| **Marzban** · VPN subscription platform | Built backend services for a microservices platform serving 100K+ active users |
+| **[RTLHTML](https://rtlhtml.ir/)** · HTML template marketplace | My own product: took it from idea to one of Iran's largest template stores, owning backend and product |
+| **Namagar** · AI investment portfolio platform | Built the backend from scratch: valuation, ROI / P&L, historical performance and scenario simulation |
+| **Villaroo** · vacation rental marketplace | Scalable Django backend for hosts and guests, with automated tests and deployment pipelines |
+| **Melket** · fractional real-estate investment | Ownership allocation and transaction processing with strong consistency guarantees |
+| **Britty** · TOEFL practice platform | Built end to end with DDD and Clean Architecture: exams, scoring and reporting |
 
-**Melket — Fractional real-estate investment** · *Backend Engineer*
-- Ownership allocation and transaction processing with strong consistency guarantees
-
-### Open source
+### 🌱 Open source
 
 | Project | Description |
 |---|---|
@@ -56,11 +56,11 @@ zero-downtime migrations across production databases, and the reliability work t
 | [Python-Descriptors](https://github.com/Cmatrix1/Python-Descriptors) | In-depth tutorial on Python descriptors |
 | [rtl-html-starter](https://github.com/Cmatrix1/rtl-html-starter) | Free Bootstrap 5 RTL starter template with Vazirmatn font |
 
-### Recognition
+### 🏆 Recognition
 
-- **Quera Technology Olympiad 2024** — ranked **16th of 242 teams**, Python/Django track ([repo](https://github.com/Cmatrix1/Python-Django-Quera-Contest-2024))
+**Quera Technology Olympiad 2024** — ranked **16th of 242 teams** in the Python/Django track ([repo](https://github.com/Cmatrix1/Python-Django-Quera-Contest-2024))
 
-### Stack
+### ⚙️ Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -73,4 +73,9 @@ zero-downtime migrations across production databases, and the reliability work t
   <img src="https://img.shields.io/badge/GitLab_CI-111111?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI"/>
   <img src="https://img.shields.io/badge/Prometheus-111111?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
   <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Cmatrix1&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cmatrix1&layout=compact&theme=github_dark&hide_border=true" alt="Top languages"/>
 </p>
