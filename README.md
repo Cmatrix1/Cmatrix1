@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Cmatrix1/Cmatrix1/raw/main/resume/Mohammad_Sadegh_Majidi_Resume.pdf"><img src="https://img.shields.io/badge/Download_Resume-PDF-111111?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/></a>
+  <a href="https://github.com/Cmatrix1/Cmatrix1/raw/master/resume/Mohammad_Sadegh_Majidi_Resume.pdf"><img src="https://img.shields.io/badge/Download_Resume-PDF-111111?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/></a>
   <a href="mailto:sadeghmajidi980@gmail.com"><img src="https://img.shields.io/badge/Email-sadeghmajidi980%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
