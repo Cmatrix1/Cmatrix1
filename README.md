@@ -25,7 +25,7 @@ releases that don't wake anyone up at night. When I'm not shipping product, I'm 
 
 - 🔨 **Working on** the backend of [Zarafza](https://zarafza.com/), a digital-gold trading platform, and my own product, [RTLHTML](https://rtlhtml.ir/)
 - 📚 **Learning** advanced system design and polishing my English to full fluency
-- 🤝 **Open to** senior backend roles — Tehran or hybrid
+- 🤝 **Open to** senior backend roles — Mashhad, Tehran, remote or hybrid
 
 ### 🛠 What I build
 
